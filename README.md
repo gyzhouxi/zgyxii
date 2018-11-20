@@ -8,5 +8,8 @@
 # dev change 
 # dev change 
 
+<<<<<<< master
 push 1
 push 2
+=======
+>>>>>>> f7875fa push1
